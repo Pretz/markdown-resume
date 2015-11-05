@@ -1,6 +1,8 @@
 # markdown-resume
 My CSS and Makefile for a resume in Markdown. See my blog post for more details.
 
+[Example Here](http://pretz.github.io/markdown-resume/)
+
 ## How To
 
 ### Install Dependencies

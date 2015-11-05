@@ -28,7 +28,8 @@ DEST_FILE = index.html
 include markdown-resume/Makefile
 ```
 
-Run
-`make` to generate HTML
-`make pdf` to generate a PDF
-`make deploy` to scp the HTML and CSS to your configured web server
+### Run
+
+* `make` to generate HTML
+* `make pdf` to generate a PDF
+* `make deploy` to scp the HTML and CSS to your configured web server

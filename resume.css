@@ -1,11 +1,12 @@
 body {
     margin: 0 auto;
-    font-family: Times, Times New Roman, serif;
+    font-family: Helvetica, Arial, sans-serif;
     color: #444444;
     line-height: 1;
     max-width: 700px;
     padding: 30px;
     font-size: 16px;
+    font-weight: 200;
 }
 
 h1, h2, h3, h4 {
@@ -38,6 +39,7 @@ h4 {
 h5 {
     font-size: 1.125em;
     line-height: 1.2em;
+    font-weight: 500;
 }
 img {
   padding-left: 10px;
